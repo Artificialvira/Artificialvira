@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Arivarasan A
+####  
+![ ](https://github.com/Artificialvira/Artificialvira/blob/main/ARIVARASAN.png)
 
-<!--
-**Artificialvira/Artificialvira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a B.Tech in AI and Data Science and work as a software developer at AIROSSPACE R&D. I'm interested about developing cutting-edge solutions through ongoing learning and original problem-solving.
 
-Here are some ideas to get you started:
+Skills: .NetFramework / Python / JS / HTML / CSS/Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
